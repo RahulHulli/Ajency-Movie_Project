@@ -1,0 +1,204 @@
+body{
+    background-image: url("../Images/image2.jpg");
+    background-size: 1320px;
+}
+#navig{
+        padding: 0.5em;
+        background-color:rgb(33, 33, 33);
+}
+#navig ul li a{
+    text-decoration: none;
+    line-height:4em;
+    color:#FFFFFF;
+    padding: 2em;
+    margin-left: 0em;
+    margin-right: 0em;
+    font-family: Purisa;
+}
+#navig ul li input{
+    padding: 10px;
+	border: 0;
+	color: #333;
+	background: rgb(255,255,255);
+	margin-left: -5px;
+	border-radius: 0 0px 0px 0;
+	border: 1px solid #FFF;
+	font-size: 18px;
+    float:right;
+}
+#navig ul li select{
+    padding: 10px;
+	border: 0;
+	color: #333;
+	background: rgb(255,255,255);
+	margin-left: -5px;
+	border-radius: 0 0px 0px 0;
+	border: 1px solid #FFF;
+	font-size: 18px;
+    float:right;
+}
+#navig ul li q1{
+	padding: 10px;
+	border: 0;
+	color: #FFF;
+	background: rgb(150,150,150);
+	margin-left: -5px;
+	border-radius: 0 0px 0px 0;
+	border: 1px solid #FFF;
+	font-size: 18px;
+    float:right;
+}
+#navig ul li select option{
+	color: #333;
+}
+#navig ul li{
+    list-style:none;
+    display:inline;
+}
+#navig ul li{
+    list-style:none;
+    display:inline;
+}
+#navig ul li a:hover{
+pointer-events:visibleStroke;
+padding: 2em;
+background-color: white;
+font-family: Purisa;
+color:#000000;
+
+-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition : all 1s ease;
+
+-webkit-border-radius: 0 0px 0px 0px;
+border-radius: 0 0px 0px 0px;
+}
+body{margin: 0; position: relative;}
+*{
+	font-family: Purisa;
+    font-weight: BOLD;
+	color: #FFF;
+}
+ul li{
+	font-size:15px;
+    color:#333;
+}
+#pop-up{
+	position: relative;
+	top: 100px;
+	width: 90%;
+	margin: 0 auto;
+	text-align: center;
+    padding:5%;
+    border:5%;
+    color:#333;
+}
+#pop-up .container{
+	background-color: rgba(255,255,255,0.9);
+	padding: 30px;
+	position: absolute;
+	top: 50px;
+	width: 90%;
+	box-sizing: border-box;
+	border-radius: 0px 0 0px 0;
+	border: 7px solid rgba(22,22,22,0.9);
+    color:#333;
+}
+#pop-up .container p{
+	color:#333;
+}
+#pop-up .container p ul li{
+	color:#333;
+}
+#pop-up .container table tr th{
+	color:#333;
+}
+#pop-up .container #myTable tr{
+	color:#333;
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd; 
+}
+#pop-up .container table tr td{
+	color:#333;
+}
+#pop-up .container table tr td a{
+	color:#552;
+    text-decoration: none;
+}
+#pop-up .container #myTable tr.header, #myTable tr:hover {
+  /* Add a grey background color to the table header and on hover */
+  background-color: #f1f1f1;
+}
+#pop-up .container table th,td{
+	border:1px solid #333;
+    padding: 15px;   
+}
+#pop-up .container table#myTable tr:nth-child(even){
+	background-color: #ccc;   
+}
+#pop-up .container table#myTable tr:nth-child(odd){
+	background-color: #fff;   
+}
+#pop-up .container #myTable th{
+	color: #fff;
+    background-color: black;
+}
+#pop-up .container #myTable{
+    border-collapse: collapse; /* Collapse borders */
+    width: 100%; /* Full-width */
+    border: 1px solid #ddd; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */
+}
+#pop-up .container #myTable th,td{
+    text-align: left; /* Left-align text */
+    padding: 12px; /* Add padding */
+}
+#pop-up .container #myInput {
+  width: 15%;
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+}
+
+#pop-up input{
+	padding: 10px;
+	border: 0;
+	color: #fff;
+	background: rgba(33,33,33,0.9);
+	margin-left: -5px;
+	border-radius: 0 0px 0px 0;
+	border: 1px solid #333;
+	font-size: 18px;
+}
+#pop-up select{
+	padding: 10px;
+	border: 0;
+	color: #fff;
+	background: rgba(33,33,33,0.9);
+	margin-left: -5px;
+	border-radius: 0 0px 0px 0;
+	border: 1px solid #333;
+	font-size: 18px;
+}
+button{
+	padding: 10px;
+	border: 0;
+	color: #333;
+	background: #FFF;
+	margin-left: -5px;
+	margin-left: -5px;
+	border-radius: 0 0px 0px 0;
+	font-size: 18px;
+}
+
+}
+#footx{
+    margin-top: 3000px;
+    background-color:rgba(12, 26, 39,0.9);
+}
+#footx center{
+     color:rgb(255,255,255);
+}
